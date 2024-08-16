@@ -1,0 +1,1 @@
+lmdeploy serve gradio http://localhost:23333 --server-name localhost --server-port 8008

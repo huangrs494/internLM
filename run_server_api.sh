@@ -1,0 +1,1 @@
+lmdeploy serve api_server     /root/.cache/modelscope/hub/Shanghai_AI_Laboratory/internlm2-chat-20b     --model-format hf     --quant-policy 0     --server-name 0.0.0.0     --server-port 23333     --tp 1
